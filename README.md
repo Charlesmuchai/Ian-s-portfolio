@@ -7,7 +7,7 @@ life history. It doesnt show much but its quite informative. Have Fun.
 
 
 ## Link
-https://charlesmuchai.github.io/
+https://charlesmuchai.github.io/Ian-s-portfolio/
 
 
 ## Built with
